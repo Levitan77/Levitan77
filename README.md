@@ -1,4 +1,4 @@
-# Алексей Кухарёв — Python Backend Developer
+# Алексей Кухарев — Python Backend Developer
 
 Backend-разработчик на Python. Создаю REST API на **Django REST Framework** и **FastAPI**,
 работаю с **PostgreSQL**, контейнеризирую сервисы в **Docker** и настраиваю **CI/CD**.
@@ -28,6 +28,7 @@ Backend-разработчик на Python. Создаю REST API на **Django 
 | [QRKot](https://github.com/Levitan77/QRkot-spreadsheets) | Асинхронный API благотворительного фонда с отчётами в Google Sheets | FastAPI, SQLAlchemy, Alembic, Pydantic |
 | [api_yamdb](https://github.com/Levitan77/api_yamdb) | Групповой проект: API отзывов на произведения | Django, DRF, JWT | командная работа, Git-flow |
 | [homework_bot](https://github.com/Levitan77/homework-bot) | Telegram-бот статуса проверки работ через внешний API | Python, requests, python-telegram-bot |
+| Booking_seats | REST API бронирования мест в кафе: роли (user/manager/admin), JWT с refresh-токенами, слоистая архитектура. Групповой проект | FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker |
 
 ## 🎓 Образование
 **Яндекс Практикум** — «Python-разработчик» (профессиональная переподготовка)
