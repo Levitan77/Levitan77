@@ -1,56 +1,39 @@
-# 🧑‍💻 Python Developer | Алексей Кухарев
+# Алексей Кухарёв — Python Backend Developer
 
-## 🎯 О себе
+Backend-разработчик на Python. Создаю REST API на **Django REST Framework** и **FastAPI**,
+работаю с **PostgreSQL**, контейнеризирую сервисы в **Docker** и настраиваю **CI/CD**.
 
-Привет! Я увлечённый разработкой Python-разработчик, создающий надёжные и эффективные решения. Мой путь в IT начался с глубокого интереса к программированию и желания создавать полезные продукты.
+## 🛠️ Стек
 
-## 🔍 Профессиональный опыт
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- Разработка backend-решений на Python;
-- Создание и поддержка веб-приложений;
-- Работа с базами данных и API;
-- Внедрение CI/CD процессов.
+## 📁 Проекты
 
-## 🛠️ Технологии и инструменты
-
-- **Языки программирования:** Python;
-- **Фреймворки:** Django, DRF, Flask;
-- **Базы данных:** PostgreSQL, SQL;
-- **DevOps:** Docker, Git, GitHub Actions;
-- **Инструменты:** Nginx, Gunicorn, pytest.
-
-## 📁 Портфолио
-
-- **Kittygram** — комплексное приложение с CI/CD;
-- **Фудграм** — платформа для доставки еды;
-- **QRKot** — проект с интеграцией API.
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [Foodgram](https://github.com/Levitan77/foodgram) | REST API сервиса рецептов: избранное, подписки, список покупок, деплой через CI/CD | Django, DRF, PostgreSQL, Docker, Nginx, GitHub Actions |
+| [Kittygram](https://github.com/Levitan77/kittygram_final) | Соцсеть для фото питомцев в контейнерах с автодеплоем | Django, DRF, React, Docker, Gunicorn, CI/CD |
+| [QRKot](https://github.com/Levitan77/QRkot-spreadsheets) | Асинхронный API благотворительного фонда с отчётами в Google Sheets | FastAPI, SQLAlchemy, Alembic, Pydantic |
+| [homework_bot](https://github.com/Levitan77/homework-bot) | Telegram-бот статуса проверки работ через внешний API | Python, requests, python-telegram-bot |
 
 ## 🎓 Образование
+**Яндекс Практикум** — «Python-разработчик» (профессиональная переподготовка)
 
-- **Яндекс.Практикум** — профессиональная переподготовка по специальности «Python-разработчик».
+## 📫 Контакты
+- Telegram: [@TV_Prets](https://t.me/TV_Prets)
+- Email: [aleshka.kuharev@yandex.ru](mailto:aleshka.kuharev@yandex.ru)
+- Локация: Москва · Формат: удалёнка / офис / релокация
 
-## 🎯 Профессиональные качества
-
-- Аналитическое мышление;
-- Умение работать в команде;
-- Быстрая обучаемость;
-- Ответственность за результат.
-
-## 🔗 Контакты
-
-- **GitHub:** [Levitan77](https://github.com/Levitan77);
-- **Telegram:** [TV_Prets](https://t.me/TV_Prets);
-- **Локация:** Москва;
-- **Формат работы:** удалённый/гибридный.
-
-## 🔄 Статус
-
-**Открыт к предложениям.** Ищу возможности для профессионального роста и реализации своих навыков в продуктовой разработке.
-
-## 📊 Направления развития
-
-- Углубление в Python и современные фреймворки;
-- Изучение новых технологий;
-- Развитие навыков CI/CD.
-
-Готов к новым вызовам и интересным проектам! 🚀
+**🟢 Открыт к предложениям Python Backend Developer.**
