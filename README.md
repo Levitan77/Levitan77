@@ -26,6 +26,7 @@ Backend-разработчик на Python. Создаю REST API на **Django 
 | [Foodgram](https://github.com/Levitan77/foodgram) | REST API сервиса рецептов: избранное, подписки, список покупок, деплой через CI/CD | Django, DRF, PostgreSQL, Docker, Nginx, GitHub Actions |
 | [Kittygram](https://github.com/Levitan77/kittygram_final) | Соцсеть для фото питомцев в контейнерах с автодеплоем | Django, DRF, React, Docker, Gunicorn, CI/CD |
 | [QRKot](https://github.com/Levitan77/QRkot-spreadsheets) | Асинхронный API благотворительного фонда с отчётами в Google Sheets | FastAPI, SQLAlchemy, Alembic, Pydantic |
+| [api_yamdb](https://github.com/Levitan77/api_yamdb) | Групповой проект: API отзывов на произведения | Django, DRF, JWT | командная работа, Git-flow |
 | [homework_bot](https://github.com/Levitan77/homework-bot) | Telegram-бот статуса проверки работ через внешний API | Python, requests, python-telegram-bot |
 
 ## 🎓 Образование
